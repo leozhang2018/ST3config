@@ -1,1 +1,2 @@
-# ST3config
+# 我的Sublime Text 3 配置文件
+
