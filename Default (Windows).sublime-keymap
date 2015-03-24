@@ -1,0 +1,6 @@
+[
+{ "keys": ["ctrl+p"], "command": "markdown_preview", "args": {"target": "browser", "parser":"markdown"} },
+{ "keys": ["ctrl+m"], "command": "build", "args": {"variant": "RunInCommand"} }
+
+]
+
